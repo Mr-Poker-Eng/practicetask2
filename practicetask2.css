@@ -1,0 +1,30 @@
+#first{
+    font-size: larger;
+    color: aqua;
+    text-align: center;
+    text-decoration: underline;
+}
+.first{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    border:2px solid red;
+    border-radius: 2px 40px;
+}
+.second{
+    color: yellow;
+    margin: 200px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.third{
+    color: bisque;
+    font-size: larger;
+    font-weight: bolder;
+    background-color: gray;
+    margin: 5px;
+}
+.fourth{
+    padding: 10px;
+}
